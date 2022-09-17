@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c564d9dd-44a4-4b6c-b376-e775c35e320f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Task2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task2/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Task2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task2/Person.class" afterDir="false" />
@@ -20,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,7 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1662992569019</updated>
       <workItem from="1662992570312" duration="5025000" />
-      <workItem from="1663074575855" duration="11149000" />
+      <workItem from="1663074575855" duration="12293000" />
+      <workItem from="1663239992186" duration="4333000" />
+      <workItem from="1663322050729" duration="27000" />
     </task>
     <servers />
   </component>
